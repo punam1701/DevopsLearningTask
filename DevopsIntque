@@ -1,0 +1,43 @@
+1) What is SDLC and how it run?
+Ans:- The software development lifecycle (SDLC) methodology provides a systematic management framework with specific deliverables at every stage of the software development process.
+The software development lifecycle (SDLC) is the cost-effective and time-efficient process.
+SDLC consists of various phases.
+i)Planning
+ii)Design
+iii)Coding
+iv)Testing
+v)Deployment
+
+2) What is waterfall methodology?
+Ans:-The Waterfall methodology also known as the Waterfall model.
+It is a sequential development process that flows like a waterfall through all phases of a project 
+(analysis, design, development, and testing), with each phase completely wrapping up before the next phase begins.
+
+3) What is Agile methodology?
+Ans:-The Agile methodology is a project management approach that involves breaking the project into phases.
+It emphasizes continuous collaboration and improvement. 
+
+4) Why do we choose agile methodology over waterfall methodology?
+Ans:-In agile methodology we can break the process and come to the previous process.
+In waterfall methodology we have to go in a flow we can not come back to previous process.
+
+5) How many types of environment are there?
+Ans:-i)Testing Environment
+     ii)Staging Environment
+     iii)Development Environment
+     iv)UAT Environment
+     v)Production Environment
+6) What is Devops?
+Ans:-Devops combines development and operations.
+It is SDLC methodology.
+Development team and operation team works together.
+This both team works on the same environment.
+
+7) Why do we need devops in our projects?
+Ans:- The role of Devops guy are development and operation team have to work on same environment.
+Make sure process has been smooth.
+
+8) What devops offers in our organisation?
+Ans:-DevOps is the combination of cultural philosophies, practices, and tools.
+It increases an organization's ability to deliver applications and services at high velocity.
+It evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
