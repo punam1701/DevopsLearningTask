@@ -1,0 +1,57 @@
+1) What is SCM?
+Ans:-SCM stands for Supply Chain Management. 
+It is the management of the flow of goods and services and includes all processes that transform raw materials into final products.
+The five most critical elements of SCM are developing a strategy, sourcing raw materials, production, distribution, and returns.
+
+2) What is VCS?
+Ans:-VCS stands for Version Control System. 
+A version control system (VCS) or version control software automates the process of version control. 
+It tracks changes to a file or set of files over time.
+A version control system keeps a complete history of your code and other files, allowing you to return to a previous version if needed. 
+
+3) Which types of VCS we use for the best practices?
+Ans:-Distributed
+
+4) Why we use DVCS instead of CVCS?
+Ans:-CVCS is easy to learn and easy to set up. 
+DVCS has the biggest advantage in that it allows you to work offline and gives flexibility.
+
+5) Explain how Git flows?
+Ans-Git works by tracking changes to files in a repository. 
+When a file is changed, Git calculates a unique identifier for the change,called a "commit hash". 
+The commit hash allows Git to identify the change and track it over time.
+
+6) What is the version of Git you have used in your project?
+Ans:- Git Version 2.34.1
+
+7) What is working directory, staging area and local repository?
+Ans:-WORKING DIRECTORY:
+Working Directory​ Git directory serves to record the file versions you authorized Git to track. 
+However, you create a working repository to store any file. 
+In other words, you can use a working directory to store files (or folders) that are under version control and those that are not.
+
+STAGING AREA:-
+In staging area is the middle ground between what you have done to your files.(also known as the working directory)
+As the name implies, the staging area gives you space to prepare (stage) the changes that will be reflected on the next commit.
+
+LOCAL REPOSITORY:-
+The local repository is a Git repository that is stored on your computer. 
+A local repository is a copy of the entire project's history and codebase that resides on a developer's machine. 
+When a developer initializes a local repository, Git sets up the necessary infrastructure to track changes, branches, and commits within the project.
+
+8) What do you understand remote repository?
+Ans:- Remote repositories are versions of your project that are hosted on the Internet or network somewhere. 
+You can have several of them each of which generally is either read-only or read/write for you.
+
+9) what is commit id?(How many digits id are there in commit id?)
+Ans:- It is a Unique Id that come for every command for every thing do in git i.e.commit,add,delete.
+40 digits are there in commit id.
+
+10) What do you understand by git conflict?
+Ans:- A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other. 
+Conflicts will most likely happen when working in a team environment.
+
+11) Can we explain the git stash?
+Ans:- Git stash is a powerful tool that allows you to save your changes and revert your working directory to a previous state. 
+This is especially useful when switching branches or reverting to a previous commit.
+And Git Stash takes a snapshot of your changes and stores them away for later use.
