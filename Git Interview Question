@@ -55,3 +55,23 @@ Conflicts will most likely happen when working in a team environment.
 Ans:- Git stash is a powerful tool that allows you to save your changes and revert your working directory to a previous state. 
 This is especially useful when switching branches or reverting to a previous commit.
 And Git Stash takes a snapshot of your changes and stores them away for later use.
+
+12)What is the diff between Git pull and Git fetch?
+-->The git pull command is used to fetch and download content from a remote repository and immediately 
+update the local repository to match that content.
+Git fetch is a primary command used to download contents from a remote repository. Here you can manage and 
+share your code with others and manage development teams as collaborators.
+
+13)What is the difference between Git, GIT HUB and GIT LAB?
+-->Git is an open-source distributed version control system designed to handle everything from small to very
+large projects with speed and efficiency.
+GitHub is a cloud-based git repository hosting service. Here you can manage and share your code with others 
+and manage development teams as collaborators.
+Git lab is a web-based DevOps life cycle tool that provides a git repository manager that provides a wiki, issue
+tracking and CI/CD pipeline.
+
+14)What is the difference between git clone and git fork?
+--> In Git, cloning is the act of making a copy of any target repository. The target repository can be remote or local.
+A fork in Git is simply a copy of an existing repository in which the new owner disconnects the codebase from previous committers.
+
+
